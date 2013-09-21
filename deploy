@@ -1,0 +1,3 @@
+#!/bin/sh
+
+zip -FSr jgm-chrome.zip japanizer-for-google-maps.user.js manifest.json icon_128.png
